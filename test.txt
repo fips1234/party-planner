@@ -3,3 +3,4 @@ Spiele:
 Trinken:
 Snacks: 2
 Tee
+sudo
